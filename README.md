@@ -1,6 +1,6 @@
-# Microanimations-CSS
+# Micro-interactions with CSS animations💖
 
-# How to submit your work
+# How to submit your work 📝
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this repo.
 
@@ -37,7 +37,7 @@ You are about to submit your work. If you are done with the above steps then cre
 
 ## Prizes 🎁
   
-Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub 🥳🥳.
+**Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
 
 Winners will be announced in our Telegram channel :loudspeaker:. So you have to join the channel for the results. 
 

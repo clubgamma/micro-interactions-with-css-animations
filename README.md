@@ -25,11 +25,14 @@ Animations/clubgamma/clubgamma.md
 
 Copy the below template into your file, delete the boilerplate data and fill the information with yours.
 ```
-name: FULLNAME-OR-NICKNAME 
-institution: INSTITUTION-NAME 
-email_id: YOUR-EMAIL-ID 
-github_user: YOUR-GITHUB-USERNAME
-animation: PUT-ANIMATION-HERE
+name: CLUB GAMMA
+institution: CHARUSAT 
+email_id: gce@charusat.edu.in
+github_user: clubgamma
+
+**Animation:** 
+
+*PUT-ANIMATION-HERE*
 ```
 
 ### 3. Create Pull Request:

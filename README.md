@@ -37,7 +37,7 @@ You are about to submit your work. If you are done with the above steps then cre
 
 ## Prizes 🎁
   
-Winner of this contest will get a cool T-shirt and also some awesome stickers by GitHub 🥳🥳.
+Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub 🥳🥳.
 
 Winners will be announced in our Telegram channel :loudspeaker:. So you have to join the channel for the results. 
 

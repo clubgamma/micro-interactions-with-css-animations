@@ -41,7 +41,7 @@ You are about to submit your work. If you are done with the above steps then cre
 
 ### Prizes 🎁
   
-**Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
+**Winners of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
 
 
 [![](https://img.shields.io/badge/Telegram-Join-%232CA5E0.svg?&style=flat&logo=telegram&logoColor=white)](http://bit.ly/cg-telegram) <br>

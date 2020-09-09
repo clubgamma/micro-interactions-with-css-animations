@@ -47,6 +47,8 @@ You are about to submit your work. If you are done with the above steps then cre
 [![](https://img.shields.io/badge/Telegram-Join-%232CA5E0.svg?&style=flat&logo=telegram&logoColor=white)](http://bit.ly/cg-telegram) <br>
 Winners will be announced in our Telegram Channel :loudspeaker:  [**bit.ly/cg-telegram**](http://bit.ly/cg-telegram) <br>
 
-<br>
+### Facing any issues?
 
-[![](https://img.shields.io/badge/Query-Ask_Us_Anything-yellow)](mailto:gce@charusat.edu.in?subject=Query%20regarding%20Special%20Repo%20Contest) <br>
+Feel free to [open an issue](https://github.com/clubgamma/micro-interactions-with-css-animations/issues/new?assignees=&labels=Query&template=query-regarding-submission.md&title=GITHUB_USERNAME) or contact the core team. We are glad to help you. ❤️
+<br><br>
+[![](https://img.shields.io/badge/Query-Ask_Us_Anything-yellow)](mailto:gce@charusat.edu.in?subject=Query%20regarding%20CSS%20Animations%20Submission) <br>

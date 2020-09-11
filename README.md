@@ -3,10 +3,10 @@
 
 ### How to submit your work 📝
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this repo.
 
 ### 1. Create the folder Animations/YOUR-USERNAME/ 
 Fork this repository, create a new folder inside the `Animations` folder, and name it with your username. It should look something like this `Animations/<YOUR-USERNAME>/`. 
+Replace `<YOUR-USERNAME>` with your GitHub username in this repo.
 
 Ex.
 ```
@@ -14,7 +14,7 @@ Animations/clubgamma/
 ```
 
 ### 2. Add your CSS animations to the folder
-Enter the folder you just created and add a README file in which you have to put the CSS animations you have created. Accepted files are only **.md** . It should look something like this `Animations/clubgamma/<FILENAME>.md`
+Enter the folder you just created and add a README file in which you have to put the CSS animations you have created. Accepted files are only **.md** extension. It should look something like this `Animations/clubgamma/<FILENAME>.md`
 
 Replace `<FILENAME>` with your GitHub username
 
@@ -37,7 +37,7 @@ github_user: clubgamma
 
 ### 3. Create Pull Request:
 
-You are about to submit your work. If you are done with the above steps then create pull request and wait for some time to get it merged by us. 
+You are about to submit your work. If you are done with the above steps then commit the changes and create pull request and wait for some time to get it merged by us. 
 
 ### Few Things to keep in mind
 

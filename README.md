@@ -39,6 +39,14 @@ github_user: clubgamma
 
 You are about to submit your work. If you are done with the above steps then create pull request and wait for some time to get it merged by us. 
 
+### Few Things to keep in mind
+
+- This contest is **only for the workshop attendees** 😄
+- Before submitting pull request make sure you have filled **pre-workshop** as well as **post-workshop** form. 
+- Contest Starts on **13th September 2020, 12:00 PM IST**  :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
+- Only **1** entry per head ☝ <br>
+
+
 ### Prizes 🎁
   
 **Winners of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
@@ -51,4 +59,5 @@ Winners will be announced in our Telegram Channel :loudspeaker:  [**bit.ly/cg-te
 
 Feel free to [open an issue](https://github.com/clubgamma/micro-interactions-with-css-animations/issues/new?assignees=&labels=Query&template=query-regarding-submission.md&title=GITHUB_USERNAME) or contact the core team. We are glad to help you. ❤️
 <br><br>
+![](https://img.shields.io/badge/open%20for%20only-workshop%20attendees-critical)
 [![](https://img.shields.io/badge/Query-Ask_Us_Anything-yellow)](mailto:gce@charusat.edu.in?subject=Query%20regarding%20CSS%20Animations%20Submission) <br>

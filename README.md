@@ -14,30 +14,39 @@ Animations/clubgamma/
 ```
 
 ### 2. Add your CSS animations to the folder
-Enter the folder you just created and add a README file in which you have to put the CSS animations you have created. Accepted files are only **.md** extension. It should look something like this `Animations/clubgamma/<FILENAME>.md`
+  - Enter the folder you just created and add a README file in which you have to put your details. It should look something like this `Animations/clubgamma/<FILENAME>.md`
 
-Replace `<FILENAME>` with your GitHub username
+    Replace `<FILENAME>` with your GitHub username
 
-Ex.
-```
-Animations/clubgamma/clubgamma.md
-```
+    Ex.
+    ```
+    Animations/clubgamma/clubgamma.md
+    ```
 
-Copy the below template into your file, delete the boilerplate data and fill the information with yours.
-```
-name: CLUB GAMMA
-institution: CHARUSAT 
-email_id: gce@charusat.edu.in
-github_user: clubgamma
+    Copy the below template into your file, delete the boilerplate data and fill the information with yours.
+    ```
+    name: CLUB GAMMA
+    institution: CHARUSAT 
+    email_id: gce@charusat.edu.in
+    github_user: clubgamma
+    ```
 
-**Animation:** 
+  - After that add the files that you created for animations (i.e. CSS/HTML/JS files). Make sure that the name of html file must be **index.html**. other than this won't be accepted. For other files like CSS/JS files you can name them as you like.
+  
+    Ex. 
+    ```
+    Animations/clubgamma/index.html [This file is compulsory]
+    Animations/clubgamma/<FILENAME>.css [Optional]
+    Animations/clubgamma/<FILENAME>.js [Optional]
+    ```
 
-*PUT-ANIMATION-HERE*
-```
 
 ### 3. Create Pull Request:
 
-You are about to submit your work. If you are done with the above steps then commit the changes and create pull request and wait for some time to get it merged by us. 
+You are about to submit your work. If you are done with the above steps then commit the changes and create pull request. While creating pull request enter your name as **title of pull request** and wait for some time to get it merged by us. 
+
+Ex.
+![prdemo](https://user-images.githubusercontent.com/58077762/92991072-a0828400-f4fe-11ea-9671-c1f13d89f492.png)
 
 ### Few Things to keep in mind
 

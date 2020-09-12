@@ -43,7 +43,7 @@ Animations/clubgamma/
 
 ### 3. Create Pull Request:
 
-You are about to submit your work. If you are done with the above steps then commit the changes and create pull request. While creating pull request enter your GotHub username as **title of pull request** and wait for some time to get it merged by us. 
+You are about to submit your work. If you are done with the above steps then commit the changes and create pull request. While creating pull request enter your GitHub username as **title of pull request** and wait for some time to get it merged by us. 
 
 Ex.
 ![pr](https://user-images.githubusercontent.com/58077762/92991468-931ac900-f501-11ea-862b-8cc0f8dd4786.png)

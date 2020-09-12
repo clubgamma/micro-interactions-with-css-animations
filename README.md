@@ -31,15 +31,13 @@ Animations/clubgamma/
     github_user: clubgamma
     ```
 
-  - After that add the files that you created for animations (i.e. CSS/HTML/JS files). Make sure that the name of html file must be **index.html**. other than this won't be accepted. For other files like CSS/JS files you can name them as you like.
+  - After that add the files that you created for animations (i.e. CSS/HTML files). Make sure that the name of html file must be **index.html**. other than this won't be accepted. For other files like CSS files you can name them as you like.
   
     Ex. 
     ```
     Animations/clubgamma/index.html [This file is compulsory]
-    Animations/clubgamma/<FILENAME>.css [Optional]
-    Animations/clubgamma/<FILENAME>.js [Optional]
+    Animations/clubgamma/<FILENAME>.css
     ```
-
 
 ### 3. Create Pull Request:
 
@@ -50,9 +48,10 @@ Ex.
 
 ### Few Things to keep in mind
 
-- This contest is **only for the workshop attendees** 😄
+- This contest is **only for the workshop attendees**😄
+- **Use only HTML/CSS for animations. Do not use javascript or any frameworks/libraries for animations🚫**
 - Before submitting pull request make sure you have filled [**pre-workshop**](http://bit.ly/e3-pre) as well as [**post-workshop**](http://bit.ly/e3-post) form. 
-- Contest Starts on **13th September 2020, 12:00 PM IST**  :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
+- Contest Starts on **13th September 2020, 12:00 PM IST** :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
 - Only **1** entry per head ☝ <br>
 - And **do not copy-paste** from anywhere, if we find palgiarism in your submission, you will be disqualified.
 
@@ -60,7 +59,6 @@ Ex.
 ### Prizes 🎁
   
 **Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
-
 
 [![](https://img.shields.io/badge/Telegram-Join-%232CA5E0.svg?&style=flat&logo=telegram&logoColor=white)](http://bit.ly/cg-telegram) <br>
 Winners will be announced in our Telegram Channel :loudspeaker:  [**bit.ly/cg-telegram**](http://bit.ly/cg-telegram) <br>

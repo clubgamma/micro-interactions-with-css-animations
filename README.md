@@ -54,6 +54,7 @@ Ex.
 - Before submitting pull request make sure you have filled **pre-workshop** as well as **post-workshop** form. 
 - Contest Starts on **13th September 2020, 12:00 PM IST**  :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
 - Only **1** entry per head ☝ <br>
+- And **do not copy-paste** from anywhere, if we find palgiarism in your submission, you will be disqualified.
 
 
 ### Prizes 🎁

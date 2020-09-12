@@ -69,5 +69,5 @@ Winners will be announced in our Telegram Channel :loudspeaker:  [**bit.ly/cg-te
 
 Feel free to [open an issue](https://github.com/clubgamma/micro-interactions-with-css-animations/issues/new?assignees=&labels=Query&template=query-regarding-submission.md&title=GITHUB_USERNAME) or contact the core team. We are glad to help you. ❤️
 <br><br>
-![](https://img.shields.io/badge/Open%20For-Workshop%20Attendees-critical)
+![](https://img.shields.io/badge/Open%20For-Workshop%20Attendees%20only-critical)
 [![](https://img.shields.io/badge/Query-Ask_Us_Anything-yellow)](mailto:gce@charusat.edu.in?subject=Query%20regarding%20CSS%20Animations%20Submission) <br>

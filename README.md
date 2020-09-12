@@ -43,15 +43,15 @@ Animations/clubgamma/
 
 ### 3. Create Pull Request:
 
-You are about to submit your work. If you are done with the above steps then commit the changes and create pull request. While creating pull request enter your name as **title of pull request** and wait for some time to get it merged by us. 
+You are about to submit your work. If you are done with the above steps then commit the changes and create pull request. While creating pull request enter your GotHub username as **title of pull request** and wait for some time to get it merged by us. 
 
 Ex.
-![prdemo](https://user-images.githubusercontent.com/58077762/92991072-a0828400-f4fe-11ea-9671-c1f13d89f492.png)
+![pr](https://user-images.githubusercontent.com/58077762/92991468-931ac900-f501-11ea-862b-8cc0f8dd4786.png)
 
 ### Few Things to keep in mind
 
 - This contest is **only for the workshop attendees** 😄
-- Before submitting pull request make sure you have filled **pre-workshop** as well as **post-workshop** form. 
+- Before submitting pull request make sure you have filled [**pre-workshop**](http://bit.ly/e3-pre) as well as [**post-workshop**](http://bit.ly/e3-post) form. 
 - Contest Starts on **13th September 2020, 12:00 PM IST**  :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
 - Only **1** entry per head ☝ <br>
 - And **do not copy-paste** from anywhere, if we find palgiarism in your submission, you will be disqualified.

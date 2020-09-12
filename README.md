@@ -1,5 +1,5 @@
 # Micro-interactions with CSS animations💖
-<img align="right" alt="Contest GIF" width=320 src="https://github.com/clubgamma/micro-interactions-with-css-animations/blob/master/Animations/clubgamma/trophy.gif" />
+<img align="right" alt="Contest GIF" width=320 src="https://github.com/clubgamma/micro-interactions-with-css-animations/blob/master/trophy.gif" />
 
 ### How to submit your work 📝
 

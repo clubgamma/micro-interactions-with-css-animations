@@ -1,4 +1,7 @@
 # Micro-interactions with CSS animations💖
+
+[PPT for the session](https://docs.google.com/presentation/d/1zdS5NPJI8Y9Da59fUcZ2w5AJXXhFEfd24SeChFW5TPw/view?usp=sharing)
+
 <img align="right" alt="Contest GIF" width=320 src="https://github.com/clubgamma/micro-interactions-with-css-animations/blob/master/trophy.gif" />
 
 ### How to submit your work 📝

@@ -51,10 +51,10 @@ Ex.
 
 ### Few Things to keep in mind
 
-- This contest is **only for the workshop attendees**😄
+- This contest is **open for all**😄
 - **Use only HTML/CSS for animations. Do not use javascript or any frameworks/libraries for animations🚫**
 - Before submitting pull request make sure you have filled [**pre-workshop**](http://bit.ly/e3-pre) as well as [**post-workshop**](http://bit.ly/e3-post) form. 
-- Contest Starts on **13th September 2020, 12:00 PM IST** :triangular_flag_on_post: & Ends on **14th September 2020, 6:00PM IST** :checkered_flag:
+- Contest Starts on **13th September 2020, 12:00 PM IST** :triangular_flag_on_post: & Ends on **15th September 2020, 6:00PM IST** :checkered_flag:
 - Only **1** entry per head ☝ <br>
 - And **do not copy-paste** from anywhere, if we find palgiarism in your submission, you will be disqualified.
 

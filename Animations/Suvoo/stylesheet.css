@@ -1,0 +1,90 @@
+ 
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font: normal 1em/1.45em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    background: radial-gradient(ellipse at bottom, #ffffff 0%, pink 100%);
+    background-attachment: fixed;
+  }
+
+  
+  
+  #BGElement {
+    animation: changeColor 3s infinite alternate;
+  }
+  
+  @keyframes changeColor {
+    0% {
+      fill: red;
+    }
+    100% {
+      fill: blue;
+    }
+  }
+  
+  #SoccerBall {
+    animation: bounce 1s infinite ease-out alternate;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(20px);
+    }
+    100% {
+      transform: translateY(-100px);
+    }
+  }
+  
+  #Shoe {
+    animation: rotate 2s infinite alternate;
+    transform-origin: right;
+    transform-box: fill-box;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(10deg);
+    }
+    70% {
+      transform: rotate(-5deg);
+    }
+  }
+  
+  #RightHand {
+    animation: rotateHand 2s infinite alternate;
+    transform-origin: right;
+    transform-box: fill-box;
+  }
+  
+  #LeftHand {
+    animation: rotateLHand 2s infinite alternate;
+    transform-origin: top left;
+    transform-box: fill-box;
+  }
+  
+  @keyframes rotateHand {
+    0% {
+      transform: rotate(-5deg);
+    }
+  
+    70% {
+      transform: rotate(10deg);
+    }
+  }
+  
+  @keyframes rotateLHand {
+    0% {
+      transform: rotate(5deg);
+    }
+  
+    50% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  

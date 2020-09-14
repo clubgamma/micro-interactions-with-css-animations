@@ -1,0 +1,106 @@
+
+/*
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #000;
+}
+h1{
+	font-size: 6em;
+	font-weight: 500;
+	color: #222;
+	letter-spacing: 5px;
+	cursor: pointer;
+}
+h1 span{
+	transition: 0.5s;
+}
+h1:hover span:nth-child(1){
+	margin-right: 10px;
+}
+
+h1:hover span:nth-child(1):after{
+	content: "'";
+}
+
+h1:hover span:nth-child(2){
+	margin-left: 40px;
+}
+
+h1:hover span{
+	color: #fff;
+	text-shadow: 0 0 10px #fff,
+				 0 0 20px #fff,
+				 0 0 40px #fff,
+				 0 0 80px #fff,
+				 0 0 120px #fff,
+				 0 0 160px #fff;
+}
+
+*/
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #000;
+}
+h1{
+	font-size: 6em;
+	font-weight: 500;
+	color: gray;
+	letter-spacing: 5px;
+	cursor: pointer;
+	transition: .1s;
+}
+h1 span{
+	transition: 1s;
+	font-family: arial-black;
+}
+h1:hover span:nth-child(1){
+	
+	margin-right: 10px;
+	font-family: 'Poppins',sans-serif;
+}
+
+h1:hover span:nth-child(1):after{
+	transition: .5s linear;
+	content: "ARDIK";
+}
+h1:hover span:nth-child(2):after{
+	transition: 1s linear;
+	content: "HORI";
+}
+
+h1:hover span:nth-child(2){
+	margin-left: 40px;
+}
+
+h1:hover span{
+	color: black;
+
+	text-shadow: 0 0 10px magenta,
+				 0 0 20px #fff,
+				 0 0 40px darkblue,
+				 0 0 80px #fff,
+				 0 0 120px blue;
+				 
+				 
+}

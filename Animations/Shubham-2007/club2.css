@@ -1,0 +1,53 @@
+.box-wrapper {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease;
+}
+
+.box-wrapper .box {
+    width: 52%;
+    height: 90%;
+    background-image: linear-gradient( 19deg, #333333 0%, #888888 100%);
+    transition: all 0.5s ease;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-wrapper .box::before, .box-wrapper .box::after {
+    content: "";
+    position: absolute;
+    background: inherit;
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    transition: all 0.5s ease;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.box-wrapper .box::before {
+    transform: rotateZ(60deg);
+}
+
+.box-wrapper .box::after {
+    transform: rotateZ(-60deg);
+}
+
+.box-wrapper .box:hover {
+    border-radius: 50px;
+}
+
+.box-wrapper .box:hover::before, .box-wrapper .box:hover::after {
+    border-radius: 50px;
+}
+
+.box-wrapper:hover {
+    transform: rotatez(180deg);
+}

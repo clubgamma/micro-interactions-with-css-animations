@@ -1,5 +1,13 @@
 # Micro-interactions with CSS animations💖
 
+```diff
+- Submission is closed❌ 
+
+- Congratulations to the peeps who have made the pull request in mentioned time💖 
+
+@@ Join our telegram channel for more awesome😍 contests like this💖. Link at last of this readme @@
+```
+
 [PPT for the session](https://docs.google.com/presentation/d/1zdS5NPJI8Y9Da59fUcZ2w5AJXXhFEfd24SeChFW5TPw/edit?usp=sharing)
 
 <img align="right" alt="Contest GIF" width=320 src="https://github.com/clubgamma/micro-interactions-with-css-animations/blob/master/trophy.gif" />

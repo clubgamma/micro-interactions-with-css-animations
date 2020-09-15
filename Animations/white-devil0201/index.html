@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="refresh" content="5; url = Click.html">
+	<title>To see something</title>
+	<style type="text/css">
+		body 
+		{
+			margin: 0px;
+			padding: 0px;
+			background-image: url(https://cdn5.vectorstock.com/i/1000x1000/05/69/abstract-black-hexagon-pattern-on-red-neon-vector-24410569.jpg);
+			background-repeat: no-repeat;
+			background-attachment: scroll;
+			background-size: cover;
+			font-family: 'Quicksand', sans-serif;
+
+		}
+		.neon
+		{
+			position: absolute;
+			top: 40%;
+			left: 20%; 
+			color: #fff;
+			margin: 0px;
+			padding: 0 10px;
+			font-size: 80px;
+			text-shadow: 0 0 20px #0062FF;
+		}
+		.neon:after
+		{
+			content: attr(data-text);
+			position: absolute;
+			top: 0;
+			left: 0;
+			padding: 0px 10px;
+			z-index: -1;
+			color: #0062FF;
+			filter: blur(15px);
+		}
+		.neon:before
+		{
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: #0062FF;
+			z-index: -2;
+			opacity: .5;
+			filter: blur(40px);
+		}
+	</style>
+</head>
+<body>
+	<h1 class="neon" data-text="Don't click anything if you want to see something!!!">Don't click anything if you<br> want to see something!!!</h1>
+</body>
+</html>

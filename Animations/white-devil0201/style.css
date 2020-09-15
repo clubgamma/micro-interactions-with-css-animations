@@ -1,0 +1,360 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'poppins', sans-serif;
+}
+body
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	min-height: 50%;
+	background: #232427;
+}
+#im
+{
+	height: 165px;
+	width: 1532px;
+}
+.container
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	max-width: 1200px;
+	margin: 40px 0;
+}
+.container .card
+{
+	position: relative;
+	margin: 30px; 
+	width: 320px;
+	height: 440px;
+	background: linear-gradient(0deg,#000,#262626);
+	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
+			  	inset -5px -5px 15px rgba(255,255,255,0.1),
+			  	5px 5px 15px rgba(0,0,0,0.3),
+			  	-5px -5px 15px rgba(255,255,255,0.1);
+	border-radius: 2px;
+}
+.container .card::before
+{
+	content: '';
+	position: absolute;
+	top: -2px;
+	left: -2px;
+	width: calc(100% + 4px);
+	height: calc(100% + 4px);
+	background: linear-gradient(45deg,#fb0094,#0000ff,#00ff00,#ffff00,#ff0000,#fb0094,#0000ff,#00ff00,#ffff00,#ff0000);
+	background-size: 400%;
+	z-index: -1;
+	animation: animate 20s linear infinite;
+	filter: blur(10px);
+}
+
+@keyframes animate
+{
+	0%
+	{
+		background-position: 0 0;
+	}
+	50%
+	{
+		background-position: 300% 0;
+	}
+	100%
+	{
+		background-position: 0 0;
+	}
+
+}
+.container .card .box1
+{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	right: 20px;
+	bottom: 20px;
+	background: #2a2b2f;
+	background-image: url(https://htc-wallpaper.com/wp-content/uploads/2018/03/captain-america-avengers-infinity-war-2018-k6-1080x1920.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	border: 2px solid #1e1f23;
+	border-radius: 15px;
+	box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+	transition: 0.5s;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+.container .card .box1::before
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+	background: rgba(255,255,255,0.05);
+	pointer-events: none;
+}
+.container .card .box1:hover
+{
+	transform: translateY(-50px);
+	box-shadow: 0 40px 70px rgba(0,0,0,0.5);
+
+}
+.container .card .box1 .content
+{
+	padding: 20px;
+	text-align: center;
+}
+.container .card .box1 .content h2
+{
+	position: absolute;
+	top: 50px;
+	right: 36px;
+	font-weight: 800;
+	font-size: 20px;
+	color: #0033FF;
+	z-index: 1;
+	opacity: 0.2;
+	letter-spacing: 1px;
+	transition: 0.5s;
+}
+.container .card .box1 .content p
+{
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff;
+	letter-spacing: 1px;	
+	z-index: 2;
+	transition: 0.5s;
+}
+.container .card .box1 .content a
+{
+	position: relative;
+	display: inline-block;
+	padding: 8px 20px;
+	background: #000;
+	margin-top: 15px;
+	border-radius: 20px;
+	text-decoration: none;
+	font-weight: 400;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+	transition: 0.5s;
+	letter-spacing: 1px;
+}
+.container .card .box1 .content a:hover
+{
+	background: #0033FF;
+	color: #fff;
+	box-shadow: 0 0 5px #0033FF,
+				0 0 25px #0033FF,
+				0 0 50px #0033FF,
+				0 0 200px #0033FF;
+}
+
+.container .card:nth-child(1) .box1 .content a
+{
+	background: #0033FF;
+}
+.container .card .box2
+{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	right: 20px;
+	bottom: 20px;
+	background: #2a2b2f;
+	background-image: url(https://cutewallpaper.org/21/iron-man-background/Comics-Iron-Man-Marvel-Comics-HD-Wallpaper-Background-.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	border: 2px solid #1e1f23;
+	border-radius: 15px;
+	box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+	transition: 0.5s;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+.container .card .box2::before
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+	background: rgba(255,255,255,0.05);
+	pointer-events: none;
+}
+.container .card .box2:hover
+{
+	transform: translateY(-50px);
+	box-shadow: 0 40px 70px rgba(0,0,0,0.5);
+
+}
+.container .card .box2 .content
+{
+	padding: 20px;
+	text-align: center;
+}
+.container .card .box2 .content h2
+{
+	position: absolute;
+	top: 50px;
+	right: 85px;
+	font-weight: 800;
+	font-size: 20px;
+	color: #FD1C03;
+	z-index: 1;
+	opacity: 0.2;
+	letter-spacing: 1px;
+	transition: 0.5s;
+}
+.container .card .box2 .content p
+{
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff;
+	letter-spacing: 1px;
+	z-index: 2;
+	transition: 0.5s;
+}
+.container .card .box2 .content a
+{
+	position: relative;
+	display: inline-block;
+	padding: 8px 20px;
+	background: #000;
+	margin-top: 15px;
+	border-radius: 20px;
+	text-decoration: none;
+	font-weight: 400;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+	transition: 0.5s;
+	letter-spacing: 1px;
+}
+.container .card .box2 .content a:hover
+{
+	background: #FD1C03;
+	color: #fff;
+	box-shadow: 0 0 5px #FD1C03,
+				0 0 25px #FD1C03,
+				0 0 50px #FD1C03,
+				0 0 200px #FD1C03;
+}
+.container .card:nth-child(2) .box2 .content a
+{
+	background: #FD1C03;
+}
+.container .card .box3
+{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	right: 20px;
+	bottom: 20px;
+	background: #2a2b2f;
+	background-image: url(https://www.rollingstone.com/wp-content/uploads/2018/06/rs-172761-blackpanther.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	border: 2px solid #1e1f23;
+	border-radius: 15px;
+	box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+	transition: 0.5s;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+.container .card .box3::before
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+	background: rgba(255,255,255,0.05);
+	pointer-events: none;
+}
+.container .card .box3:hover
+{
+	transform: translateY(-50px);
+	box-shadow: 0 40px 70px rgba(0,0,0,0.5);
+
+}
+.container .card .box3 .content
+{
+	padding: 20px;
+	text-align: center;
+}
+.container .card .box3 .content h2
+{
+	position: absolute;
+	top: 50px;
+	right: 42px;
+	font-weight: 800;
+	font-size: 20px;
+	color: #6E0DD0;
+	z-index: 1;
+	opacity: 0.2;
+	letter-spacing: 1px;
+	transition: 0.5s;
+}
+.container .card .box3 .content p
+{
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff;
+	letter-spacing: 1px;
+	z-index: 2;
+	transition: 0.5s;
+}
+.container .card .box3 .content a
+{
+	position: relative;
+	display: inline-block;
+	padding: 8px 20px;
+	background: #000;
+	margin-top: 15px;
+	border-radius: 20px;
+	text-decoration: none;
+	font-weight: 400;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+	transition: 0.5s;
+	letter-spacing: 1px;
+}
+.container .card .box3 .content a:hover
+{
+	background: #6E0DD0;
+	color: #fff;
+	box-shadow: 0 0 5px #6E0DD0,
+				0 0 25px #6E0DD0,
+				0 0 50px #6E0DD0,
+				0 0 200px #6E0DD0;
+}
+.container .card:nth-child(3) .box3 .content a
+{
+	background: #6E0DD0;
+}
+.container .card:hover .content h2
+{
+	opacity: 1;
+	transform: translateY(-45px);
+}
+ 
